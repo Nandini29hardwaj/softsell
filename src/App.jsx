@@ -6,8 +6,8 @@ import HowItWorks from './components/HowItWorks';
 import WhyChooseUs from './components/WhyChooseUs';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
-import Chatbot from './components/Chatbot';
 import Footer from './components/Footer';
+import ChatBot from './components/Chatbot';
 
 const App = () => {
   return (
@@ -19,7 +19,7 @@ const App = () => {
       <WhyChooseUs />
       <Testimonials />
       <Contact />   
-      <Chatbot /> 
+      <ChatBot />
       <Footer />
     </div>
   );
