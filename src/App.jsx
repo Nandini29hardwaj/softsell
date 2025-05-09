@@ -7,7 +7,7 @@ import WhyChooseUs from './components/WhyChooseUs';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import ChatBot from './components/Chatbot';
+import ChatBot from './components/ChatBot';
 
 const App = () => {
   return (
