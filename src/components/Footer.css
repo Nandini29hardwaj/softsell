@@ -1,0 +1,31 @@
+/* Footer.css */
+.footer {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 14px;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-links a,
+.social-media a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.footer-links a:hover,
+.social-media a:hover {
+  text-decoration: underline;
+}
+
+.social-media i {
+  font-size: 20px;
+  margin: 0 10px;
+}
