@@ -29,7 +29,7 @@ const ChatBot = () => {
   };
 
   const handleCloseChat = () => {
-    setIsChatOpen(false); // Close the chat window
+    setIsChatOpen(false); 
   };
 
   return (
